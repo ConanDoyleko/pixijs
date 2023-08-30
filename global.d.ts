@@ -6,6 +6,7 @@ declare module '*.frag' {
 
     export default value;
 }
+// ko
 
 declare module '*.vert' {
     const value: string;
